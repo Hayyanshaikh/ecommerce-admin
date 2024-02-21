@@ -1,0 +1,124 @@
+[
+  {
+    "id": 1,
+    "name": "Nike",
+    "description": "Athletic footwear and apparel company",
+    "link": "https://nike.com",
+    "order": 1,
+    "status": "Active",
+    "isFeatured": true,
+    "image": "https://placehold.co/1000/f5f5f5/b0b0b0ff.webp",
+    "categories": [1, 2, 3],
+    "createdAt": "2023-10-09"
+  },
+  {
+    "id": 2,
+    "name": "The CocaCola Company",
+    "description": "Multinational beverage corporation",
+    "link": "https://coca-cola.com",
+    "order": 2,
+    "status": "Active",
+    "isFeatured": false,
+    "image": "https://placehold.co/1000/f5f5f5/b0b0b0ff.webp",
+    "categories": [4, 5, 6],
+    "createdAt": "2023-10-09"
+  },
+  {
+    "id": 3,
+    "name": "BAND-AID",
+    "description": "Brand of adhesive bandages",
+    "link": "https://band-aid.com",
+    "order": 3,
+    "status": "Active",
+    "isFeatured": true,
+    "image": "https://placehold.co/1000/f5f5f5/b0b0b0ff.webp",
+    "categories": [7, 8],
+    "createdAt": "2023-10-09"
+  },
+  {
+    "id": 4,
+    "name": "Adidas",
+    "description": "Multinational corporation that designs and manufactures sports shoes, clothing, and accessories",
+    "link": "https://adidas.com",
+    "order": 4,
+    "status": "Active",
+    "isFeatured": false,
+    "image": "https://placehold.co/1000/f5f5f5/b0b0b0ff.webp",
+    "categories": [9, 10],
+    "createdAt": "2023-10-09"
+  },
+  {
+    "id": 5,
+    "name": "Apple",
+    "description": "Multinational technology company that designs, manufactures, and sells consumer electronics, computer software, and online services",
+    "link": "https://apple.com",
+    "order": 5,
+    "status": "Active",
+    "isFeatured": true,
+    "image": "https://placehold.co/1000/f5f5f5/b0b0b0ff.webp",
+    "categories": [11, 12],
+    "createdAt": "2023-10-09"
+  },
+  {
+    "id": 6,
+    "name": "Amazon",
+    "description": "Multinational technology company focusing on e-commerce, cloud computing, and artificial intelligence",
+    "link": "https://amazon.com",
+    "order": 6,
+    "status": "Active",
+    "isFeatured": false,
+    "image": "https://placehold.co/1000/f5f5f5/b0b0b0ff.webp",
+    "categories": [13, 14],
+    "createdAt": "2023-10-09"
+  },
+  {
+    "id": 7,
+    "name": "MöStlé",
+    "description": "Multinational food and beverage company",
+    "link": "https://nestle.com",
+    "order": 7,
+    "status": "Active",
+    "isFeatured": true,
+    "image": "https://placehold.co/1000/f5f5f5/b0b0b0ff.webp",
+    "categories": [15, 16],
+    "createdAt": "2023-10-09"
+  },
+  {
+    "id": 8,
+    "name": "Google",
+    "description": "Multinational technology company that specializes in Internet-related services and products",
+    "link": "https://google.com",
+    "order": 8,
+    "status": "Active",
+    "isFeatured": false,
+    "image": "https://placehold.co/1000/f5f5f5/b0b0b0ff.webp",
+    "categories": [17, 18],
+    "createdAt": "2023-10-09"
+  },
+  {
+    "id": 9,
+    "name": "Amazon",
+    "description": "Multinational technology company focusing on e-commerce, cloud computing, and artificial intelligence",
+    "link": "https://amazon.com",
+    "order": 9,
+    "status": "Active",
+
+
+    "isFeatured": true,
+    "image": "https://placehold.co/1000/f5f5f5/b0b0b0ff.webp",
+    "categories": [19, 20],
+    "createdAt": "2023-10-09"
+  },
+  {
+    "id": 10,
+    "name": "Nestlé",
+    "description": "Multinational food and beverage company",
+    "link": "https://nestle.com",
+    "order": 10,
+    "status": "Active",
+    "isFeatured": false,
+    "image": "https://placehold.co/1000/f5f5f5/b0b0b0ff.webp",
+    "categories": [21, 22],
+    "createdAt": "2023-10-09"
+  }
+]

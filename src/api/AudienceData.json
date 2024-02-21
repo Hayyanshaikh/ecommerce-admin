@@ -1,0 +1,37 @@
+[
+  {
+    "name": "D-1",
+    "orders": 150,
+    "products": 100
+  },
+  {
+    "name": "D-2",
+    "orders": 200,
+    "products": 120
+  },
+  {
+    "name": "D-3",
+    "orders": 120,
+    "products": 80
+  },
+  {
+    "name": "D-4",
+    "orders": 180,
+    "products": 150
+  },
+  {
+    "name": "D-5",
+    "orders": 250,
+    "products": 200
+  },
+  {
+    "name": "D-6",
+    "orders": 250,
+    "products": 200
+  },
+  {
+    "name": "D-7",
+    "orders": 250,
+    "products": 200
+  }
+]

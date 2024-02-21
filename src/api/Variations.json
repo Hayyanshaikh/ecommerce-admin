@@ -1,0 +1,43 @@
+[
+{
+  "id": 1,
+  "attributes":
+  {
+    "color": "black",
+    "size": "small"
+  },
+  "price": 199.99,
+  "availability": true
+},
+{
+  "id": 2,
+  "attributes":
+  {
+    "color": "black",
+    "size": "medium",
+    "material": "polyester"
+  },
+  "price": 219.99,
+  "availability": false
+},
+{
+  "id": 3,
+  "attributes":
+  {
+    "color": "white",
+    "size": "small",
+    "material": "cotton"
+  },
+  "price": 209.99,
+  "availability": true
+},
+{
+  "id": 4,
+  "attributes":
+  {
+    "color": "white",
+    "size": "medium"
+  },
+  "price": 229.99,
+  "availability": true
+}]

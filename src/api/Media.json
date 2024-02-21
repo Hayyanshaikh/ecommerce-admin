@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Folder 1",
+    "type": "folder",
+    "createdAt": "2023-10-09",
+    "modifyDate": "2023-10-13",
+    "link": "/path/to/folder1",
+    "size": "100 MB"
+  },
+  {
+    "id": 2,
+    "name": "Folder 2",
+    "type": "folder",
+    "createdAt": "2023-10-09",
+    "modifyDate": "2023-10-13",
+    "link": "/path/to/folder2",
+    "size": "75 MB"
+  },
+  {
+    "id": 3,
+    "name": "Folder 3",
+    "type": "folder",
+    "createdAt": "2023-10-09",
+    "modifyDate": "2023-10-13",
+    "link": "/path/to/folder3",
+    "size": "120 MB"
+  },
+  {
+    "id": 4,
+    "name": "Image 1",
+    "type": "image",
+    "createdAt": "2023-10-09",
+    "modifyDate": "2023-10-13",
+    "link": "https://picsum.photos/1000?seed=1",
+    "size": "500 KB"
+  },
+  {
+    "id": 5,
+    "name": "Folder 4",
+    "type": "folder",
+    "createdAt": "2023-10-09",
+    "modifyDate": "2023-10-13",
+    "link": "/path/to/folder4",
+    "size": "90 MB"
+  },
+  {
+    "id": 6,
+    "name": "Image 2",
+    "type": "image",
+    "createdAt": "2023-10-09",
+    "modifyDate": "2023-10-13",
+    "link": "https://picsum.photos/1000?seed=2",
+    "size": "480 KB"
+  },
+  {
+    "id": 7,
+    "name": "Folder 5",
+    "type": "folder",
+    "createdAt": "2023-10-09",
+    "modifyDate": "2023-10-13",
+    "link": "/path/to/folder5",
+    "size": "85 MB"
+  },
+  {
+    "id": 8,
+    "name": "Folder 6",
+    "type": "folder",
+    "createdAt": "2023-10-09",
+    "modifyDate": "2023-10-13",
+    "link": "/path/to/folder6",
+    "size": "75 MB"
+  },
+  {
+    "id": 9,
+    "name": "Folder 7",
+    "type": "folder",
+    "createdAt": "2023-10-09",
+    "modifyDate": "2023-10-13",
+    "link": "/path/to/folder7",
+    "size": "110 MB"
+  },
+  {
+    "id": 10,
+    "name": "Image 3",
+    "type": "image",
+    "createdAt": "2023-10-09",
+    "modifyDate": "2023-10-13",
+    "link": "https://picsum.photos/1000?seed=3",
+    "size": "550 KB"
+  },
+  {
+    "id": 11,
+    "name": "Folder 8",
+    "type": "folder",
+    "createdAt": "2023-10-09",
+    "modifyDate": "2023-10-13",
+    "link": "/path/to/folder8",
+    "size": "95 MB"
+  },
+  {
+    "id": 12,
+    "name": "Folder 9",
+    "type": "folder",
+    "createdAt": "2023-10-09",
+    "modifyDate": "2023-10-13",
+    "link": "/path/to/folder9",
+    "size": "80 MB"
+  }
+]

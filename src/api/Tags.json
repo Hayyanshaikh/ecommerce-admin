@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "label": "IT",
+    "created_at": "2023-09-30T10:00:00Z",
+    "status": "Active",
+    "link": "https://example.com/it",
+    "description": "This is IT"
+  },
+  {
+    "id": 2,
+    "label": "Office",
+    "created_at": "2023-09-30T11:00:00Z",
+    "status": "Inactive",
+    "link": "https://example.com/office",
+    "description": "This is Office"
+  },
+  {
+    "id": 3,
+    "label": "Printer",
+    "created_at": "2023-09-30T12:00:00Z",
+    "status": "Active",
+    "link": "https://example.com/printer",
+    "description": "This is Printer"
+  },
+  {
+    "id": 4,
+    "label": "IPhone",
+    "created_at": "2023-09-30T13:00:00Z",
+    "status": "Active",
+    "link": "https://example.com/iphone",
+    "description": "This is IPhone"
+  },
+  {
+    "id": 5,
+    "label": "Mobile",
+    "created_at": "2023-09-30T14:00:00Z",
+    "status": "Active",
+    "link": "https://example.com/mobile",
+    "description": "This is Mobile"
+  },
+  {
+    "id": 6,
+    "label": "Electronic",
+    "created_at": "2023-09-30T15:00:00Z",
+    "status": "Active",
+    "link": "https://example.com/electronic",
+    "description": "This is Electronic"
+  }
+]

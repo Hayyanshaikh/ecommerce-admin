@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "size",
+    "slug": "size",
+    "order": 1,
+    "createdAt": "2023-10-04",
+    "status": "published"
+  },
+  {
+    "id": 2,
+    "name": "color",
+    "slug": "color",
+    "order": 2,
+    "createdAt": "2023-10-04",
+    "status": "pending"
+  },
+  {
+    "id": 3,
+    "name": "material",
+    "slug": "material",
+    "order": 3,
+    "createdAt": "2023-10-04",
+    "status": "draft"
+  },
+  {
+    "id": 4,
+    "name": "brand",
+    "slug": "brand",
+    "order": 4,
+    "createdAt": "2023-10-04",
+    "status": "published"
+  }
+]

@@ -1,0 +1,27 @@
+[
+
+  {
+    "id": 1,
+    "name": "hot",
+    "createdat": "yyyy-mm-ddthh:mm:ss",
+    "status": "active",
+    "color": "#ff0000",
+    "isChecked": false
+  },
+  {
+    "id": 2,
+    "name": "new",
+    "createdat": "yyyy-mm-ddthh:mm:ss",
+    "status": "active",
+    "color": "#00ff00",
+    "isChecked": false
+  },
+  {
+    "id": 3,
+    "name": "sale",
+    "createdat": "yyyy-mm-ddthh:mm:ss",
+    "status": "active",
+    "color": "#0000ff",
+    "isChecked": false
+  }
+]

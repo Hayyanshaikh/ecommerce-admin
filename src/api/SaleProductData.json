@@ -1,0 +1,36 @@
+[
+  {
+    "year": 2021,
+    "data": [
+      { "x": "January", "y": 80 },
+      { "x": "February", "y": 80 },
+      { "x": "March", "y": 40 },
+      { "x": "April", "y": 40 },
+      { "x": "May", "y": 60 },
+      { "x": "June", "y": 60 },
+      { "x": "July", "y": 80 },
+      { "x": "August", "y": 80 },
+      { "x": "September", "y": 40 },
+      { "x": "October", "y": 40 },
+      { "x": "November", "y": 90 },
+      { "x": "December", "y": 90 }
+    ]
+  },
+  {
+    "year": 2022,
+    "data": [
+      { "x": "January", "y": 30 },
+      { "x": "February", "y": 30 },
+      { "x": "March", "y": 60 },
+      { "x": "April", "y": 60 },
+      { "x": "May", "y": 90 },
+      { "x": "June", "y": 90 },
+      { "x": "July", "y": 40 },
+      { "x": "August", "y": 40 },
+      { "x": "September", "y": 60 },
+      { "x": "October", "y": 60 },
+      { "x": "November", "y": 20 },
+      { "x": "December", "y": 20 }
+    ]
+  }
+]

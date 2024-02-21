@@ -1,0 +1,113 @@
+[
+  {
+    "id": 1,
+    "name": "Electronics",
+    "image": "https://placehold.co/100/f5f5f5/b0b0b0ff.webp",
+    "order": 1,
+    "status": "Active",
+    "hasSubcategories": true,
+    "subcategories": [2, 3],
+    "start_date": "2023-10-10"
+  },
+  {
+    "id": 2,
+    "name": "Home Appliances",
+    "image": "https://placehold.co/100/f5f5f5/b0b0b0ff.webp",
+    "order": 2,
+    "status": "Out of Stock",
+    "hasSubcategories": false,
+    "start_date": "2023-10-11"
+  },
+  {
+    "id": 3,
+    "name": "Fashion",
+    "image": "https://placehold.co/100/f5f5f5/b0b0b0ff.webp",
+    "order": 3,
+    "status": "Coming Soon",
+    "hasSubcategories": false,
+    "start_date": "2023-10-12"
+  },
+  {
+    "id": 4,
+    "name": "Sports",
+    "image": "https://placehold.co/100/f5f5f5/b0b0b0ff.webp",
+    "order": 4,
+    "status": "Discontinued",
+    "hasSubcategories": true,
+    "subcategories": [6, 7],
+    "start_date": "2023-10-13"
+  },
+  {
+    "id": 5,
+    "name": "Books",
+    "image": "https://placehold.co/100/f5f5f5/b0b0b0ff.webp",
+    "order": 5,
+    "status": "Featured",
+    "hasSubcategories": false,
+    "start_date": "2023-10-14"
+  },
+  {
+    "id": 6,
+    "name": "Toys",
+    "image": "https://placehold.co/100/f5f5f5/b0b0b0ff.webp",
+    "order": 6,
+    "status": "New",
+    "hasSubcategories": false,
+    "start_date": "2023-10-15"
+  },
+  {
+    "id": 7,
+    "name": "Beauty",
+    "image": "https://placehold.co/100/f5f5f5/b0b0b0ff.webp",
+    "order": 7,
+    "status": "On Sale",
+    "hasSubcategories": false,
+    "start_date": "2023-10-16"
+  },
+  {
+    "id": 8,
+    "name": "Furniture",
+    "image": "https://placehold.co/100/f5f5f5/b0b0b0ff.webp",
+    "order": 8,
+    "status": "Pending",
+    "hasSubcategories": true,
+    "subcategories": [8, 9],
+    "start_date": "2023-10-17"
+  },
+  {
+    "id": 9,
+    "name": "Automobiles",
+    "image": "https://placehold.co/100/f5f5f5/b0b0b0ff.webp",
+    "order": 9,
+    "status": "Archive",
+    "hasSubcategories": false,
+    "start_date": "2023-10-18"
+  },
+  {
+    "id": 10,
+    "name": "Home Decor",
+    "image": "https://placehold.co/100/f5f5f5/b0b0b0ff.webp",
+    "order": 10,
+    "status": "Pause",
+    "hasSubcategories": false,
+    "start_date": "2023-10-19"
+  },
+  {
+    "id": 11,
+    "name": "Kitchen Appliances",
+    "image": "https://placehold.co/100/f5f5f5/b0b0b0ff.webp",
+    "order": 11,
+    "status": "New",
+    "hasSubcategories": false,
+    "start_date": "2023-10-20"
+  },
+  {
+    "id": 12,
+    "name": "Health & Fitness",
+    "image": "https://placehold.co/100/f5f5f5/b0b0b0ff.webp",
+    "order": 12,
+    "status": "On Sale",
+    "hasSubcategories": false,
+    "start_date": "2023-10-21"
+  }
+]

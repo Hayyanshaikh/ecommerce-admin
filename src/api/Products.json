@@ -1,0 +1,470 @@
+[
+  {
+    "id": "1",
+    "name": "Mobile Phone",
+    "description": "High-end smartphone with advanced features.",
+    "category": "Mobile",
+    "brand": "Electronics",
+    "price": 20,
+    "salePrice": 699.99,
+    "costPerItem": 599.99,
+    "currency": "USD",
+    "order": 12,
+    "sku": "SKU011",
+    "attributes": [
+      {
+        "name": "Color",
+        "values": ["Black", "Silver", "Gold"]
+      }
+    ],
+    "availability_dates": {
+      "start_date": "2023-10-01",
+      "end_date": "2023-10-31"
+    },
+    "ratings": {
+      "average_rating": 4.4,
+      "num_ratings": 90
+    },
+    "inventory": {
+      "in_stock": false,
+      "quantity": 5
+    },
+    "images": {
+      "thumbnail": "https://placehold.co/100/f5f5f5/b0b0b0ff.webp",
+      "gallery": [
+        "https://placehold.co/500/f5f5f5/b0b0b0ff.webp",
+        "https://placehold.co/500/f5f5f5/b0b0b0ff.webp"
+      ]
+    },
+    "discounts": [
+      {
+        "discount_type": "Percentage",
+        "amount": 12,
+        "description": "Get 12% off on this mobile phone."
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Tablet",
+    "description": "Versatile tablet for work and entertainment.",
+    "category": "Tablet",
+    "brand": "Electronics",
+    "price": 30,
+    "salePrice": 349.99,
+    "costPerItem": 299.99,
+    "currency": "USD",
+    "order": 15,
+    "sku": "SKU012",
+    "attributes": [
+      {
+        "name": "Size",
+        "values": ["8-inch", "10-inch"]
+      },
+      {
+        "name": "Color",
+        "values": ["Black", "Silver"]
+      }
+    ],
+    "availability_dates": {
+      "start_date": "2023-10-01",
+      "end_date": "2023-10-31"
+    },
+    "ratings": {
+      "average_rating": 4.2,
+      "num_ratings": 75
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 40
+    },
+    "images": {
+      "thumbnail": "https://placehold.co/100/f5f5f5/b0b0b0ff.webp",
+      "gallery": [
+        "https://placehold.co/500/f5f5f5/b0b0b0ff.webp",
+        "https://placehold.co/500/f5f5f5/b0b0b0ff.webp"
+      ]
+    },
+    "discounts": [
+      {
+        "discount_type": "Fixed Amount",
+        "amount": 30,
+        "description": "Save $30 on this tablet."
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Bag",
+    "description": "Stylish and spacious backpack for everyday use.",
+    "category": "Bag",
+    "brand": "Fashion",
+    "price": 59.99,
+    "salePrice": 49.99,
+    "costPerItem": 39.99,
+    "currency": "USD",
+    "order": 18,
+    "sku": "SKU013",
+    "attributes": [
+      {
+        "name": "Color",
+        "values": ["Black", "Blue", "Grey"]
+      }
+    ],
+    "availability_dates": {
+      "start_date": "2023-10-01",
+      "end_date": "2023-10-31"
+    },
+    "ratings": {
+      "average_rating": 4.5,
+      "num_ratings": 60
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 60
+    },
+    "images": {
+      "thumbnail": "https://placehold.co/100/f5f5f5/b0b0b0ff.webp",
+      "gallery": [
+        "https://placehold.co/500/f5f5f5/b0b0b0ff.webp",
+        "https://placehold.co/500/f5f5f5/b0b0b0ff.webp"
+      ]
+    },
+    "discounts": [
+      {
+        "discount_type": "Percentage",
+        "amount": 20,
+        "description": "Get 20% off on this bag."
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Headphones",
+    "description": "Premium over-ear headphones with superior sound quality.",
+    "category": "Headphones",
+    "brand": "Audio",
+    "price": 149.99,
+    "salePrice": 129.99,
+
+
+    "costPerItem": 109.99,
+    "currency": "USD",
+    "order": 21,
+    "sku": "SKU014",
+    "attributes": [
+      {
+        "name": "Color",
+        "values": ["Black", "White", "Red"]
+      }
+    ],
+    "availability_dates": {
+      "start_date": "2023-10-01",
+      "end_date": "2023-10-31"
+    },
+    "ratings": {
+      "average_rating": 4.7,
+      "num_ratings": 90
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 45
+    },
+    "images": {
+      "thumbnail": "https://placehold.co/100/f5f5f5/b0b0b0ff.webp",
+      "gallery": [
+        "https://placehold.co/500/f5f5f5/b0b0b0ff.webp",
+        "https://placehold.co/500/f5f5f5/b0b0b0ff.webp"
+      ]
+    },
+    "discounts": [
+      {
+        "discount_type": "Fixed Amount",
+        "amount": 20,
+        "description": "Save $20 on these headphones."
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Water Bottle",
+    "description": "Stainless steel water bottle with leak-proof design.",
+    "category": "Bottle",
+    "brand": "Home",
+    "price": 24.99,
+    "salePrice": 19.99,
+    "costPerItem": 14.99,
+    "currency": "USD",
+    "order": 24,
+    "sku": "SKU015",
+    "attributes": [
+      {
+        "name": "Color",
+        "values": ["Silver", "Black", "Blue"]
+      }
+    ],
+    "availability_dates": {
+      "start_date": "2023-10-01",
+      "end_date": "2023-10-31"
+    },
+    "ratings": {
+      "average_rating": 4.3,
+      "num_ratings": 55
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 70
+    },
+    "images": {
+      "thumbnail": "https://placehold.co/100/f5f5f5/b0b0b0ff.webp",
+      "gallery": [
+        "https://placehold.co/500/f5f5f5/b0b0b0ff.webp",
+        "https://placehold.co/500/f5f5f5/b0b0b0ff.webp"
+      ]
+    },
+    "discounts": [
+      {
+        "discount_type": "Percentage",
+        "amount": 15,
+        "description": "Get 15% off on this water bottle."
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Bike",
+    "description": "Lightweight and durable bicycle for commuting.",
+    "category": "Bike",
+    "brand": "Sports",
+    "price": 299.99,
+    "salePrice": 249.99,
+    "costPerItem": 199.99,
+    "currency": "USD",
+    "order": 27,
+    "sku": "SKU016",
+    "attributes": [
+      {
+        "name": "Size",
+        "values": ["Small", "Medium", "Large"]
+      },
+      {
+        "name": "Color",
+        "values": ["Red", "Blue", "Green"]
+      }
+    ],
+    "availability_dates": {
+      "start_date": "2023-10-01",
+      "end_date": "2023-10-31"
+    },
+    "ratings": {
+      "average_rating": 4.6,
+      "num_ratings": 65
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 35
+    },
+    "images": {
+      "thumbnail": "https://placehold.co/100/f5f5f5/b0b0b0ff.webp",
+      "gallery": [
+        "https://placehold.co/500/f5f5f5/b0b0b0ff.webp",
+        "https://placehold.co/500/f5f5f5/b0b0b0ff.webp"
+      ]
+    },
+    "discounts": [
+      {
+        "discount_type": "Fixed Amount",
+        "amount": 40,
+        "description": "Save $40 on this bike."
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Airpods",
+    "description": "Wireless earbuds with active noise cancellation.",
+    "category": "Airpods",
+    "brand": "Audio",
+    "price": 199.99,
+    "salePrice": 179.99,
+    "costPerItem": 159.99,
+    "currency": "USD",
+    "order": 30,
+    "sku": "SKU017",
+    "attributes": [
+      {
+        "name": "Color",
+        "values": ["White", "Black"]
+      }
+    ],
+    "availability_dates": {
+      "start_date": "2023-10-01",
+      "end_date": "2023-10-31"
+    },
+    "ratings": {
+      "average_rating": 4.8,
+      "num_ratings": 80
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 50
+    },
+    "images": {
+      "thumbnail": "https://placehold.co/100/f5f5f5/b0b0b0ff.webp",
+      "gallery": [
+        "https://placehold.co/500/f5f5f5/b0b0b0ff.webp",
+        "https://placehold.co/500/f5f5f5/b0b0b0ff.webp"
+      ]
+    },
+    "discounts": [
+      {
+        "discount_type": "Fixed Amount",
+        "amount": 20,
+        "description": "Save $20 on these Airpods."
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Air Conditioner",
+    "description": "Energy-efficient air conditioner for cooling your home.",
+    "category": "AC",
+    "brand": "Appliances",
+    "price": 499.99,
+    "salePrice": 449.99,
+    "costPerItem": 399.99,
+    "currency": "USD",
+    "order": 35,
+    "sku": "SKU018",
+    "attributes": [
+      {
+        "name": "Capacity",
+        "values": ["1 Ton", "1.5 Ton", "2 Ton"]
+      },
+      {
+        "name": "Energy Rating",
+        "values": ["3 Star", "4 Star", "5 Star"]
+      }
+    ],
+    "availability_dates": {
+      "start_date": "2023-10-01",
+      "end_date": "2023-10-31"
+    },
+    "ratings": {
+      "average_rating": 4.7,
+      "num_ratings": 70
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 25
+    },
+    "images": {
+      "thumbnail": "https://placehold.co/100/f5f5f5/b0b0b0ff.webp",
+      "gallery": [
+        "https://placehold.co/500/f5f5f5/b0b0b0ff.webp",
+        "https://placehold.co/500/f5f5f5/b0b0b0ff.webp"
+      ]
+    },
+    "discounts": [
+      {
+        "discount_type": "Percentage",
+        "amount": 10,
+        "description": "Get 10% off on this air conditioner."
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Refrigerator",
+    "description": "Spacious refrigerator with advanced cooling technology.",
+    "category": "Frig",
+    "brand": "Appliances",
+    "price": 799.99,
+    "salePrice": 749.99,
+    "costPerItem": 699.99,
+    "currency": "USD",
+    "order": 40,
+    "sku": "SKU019",
+    "attributes": [
+      {
+        "name": "Capacity",
+        "values": ["300 L", "400 L", "500 L"]
+      },
+      {
+        "name": "Color",
+        "values": ["Silver", "Black", "White"]
+      }
+    ],
+    "availability_dates": {
+      "start_date": "2023-10-01",
+      "end_date": "2023-10-31"
+    },
+    "ratings": {
+      "average_rating": 4.6,
+      "num_ratings": 65
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 30
+    },
+    "images": {
+      "thumbnail": "https://placehold.co/100/f5f5f5/b0b0b0ff.webp",
+      "gallery": [
+        "https://placehold.co/500/f5f5f5/b0b0b0ff.webp",
+        "https://placehold.co/500/f5f5f5/b0b0b0ff.webp"
+      ]
+    },
+    "discounts": [
+      {
+        "discount_type": "Fixed Amount",
+        "amount": 50,
+        "description": "Save $50 on this refrigerator."
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Smartwatch",
+    "description": "Feature-packed smartwatch with health monitoring.",
+    "category": "Wearables",
+    "brand": "Electronics",
+    "price": 249.99,
+    "salePrice": 229.99,
+    "costPerItem": 199.99,
+    "currency": "USD",
+    "order": 45,
+    "sku": "SKU020",
+    "attributes": [
+      {
+        "name": "Color",
+        "values": ["Black", "Silver", "Rose Gold"]
+      }
+    ],
+    "availability_dates": {
+      "start_date": "2023-10-01",
+      "end_date": "2023-10-31"
+    },
+    "ratings": {
+      "average_rating": 4.5,
+      "num_ratings": 50
+    },
+    "inventory": {
+      "in_stock": true,
+      "quantity": 20
+    },
+    "images": {
+      "thumbnail": "https://placehold.co/100/f5f5f5/b0b0b0ff.webp",
+      "gallery": [
+        "https://placehold.co/500/f5f5f5/b0b0b0ff.webp",
+        "https://placehold.co/500/f5f5f5/b0b0b0ff.webp"
+      ]
+    },
+    "discounts": [
+      {
+        "discount_type": "Percentage",
+        "amount": 12,
+        "description": "Get 12% off on this smartwatch."
+      }
+    ]
+  }
+]

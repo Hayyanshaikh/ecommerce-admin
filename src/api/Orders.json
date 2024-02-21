@@ -1,0 +1,320 @@
+[
+  {
+    "id": 1,
+    "customer_id": 1,
+    "status": "shipping",
+    "products": [
+      {
+        "product_id": 1,
+        "quantity": 1
+      },
+      {
+        "product_id": 2,
+        "quantity": 2
+      }
+    ],
+    "payment_details": {
+      "transaction_id": "ch_1234567890",
+      "payment_method": "Credit Card",
+      "amount": 800,
+      "tax_amount": 50,
+      "shipping_amount": 20,
+      "status": "shipped"
+    },
+    "order_date": "2023-09-20",
+    "shipping_address": {
+      "street": "123 Elm St",
+      "city": "Anytown",
+      "state": "CA",
+      "zip": "12345"
+    },
+    "billing_address": {
+      "street": "123 Elm St",
+      "city": "Anytown",
+      "state": "CA",
+      "zip": "12345"
+    },
+    "order_status": [
+      {
+        "timestamp": "Wed, 15 Dec 2021 - 05:34PM",
+        "status": "Order Placed",
+        "description": "An order has been placed."
+      },
+      {
+        "timestamp": "Thu, 16 Dec 2021 - 5:48AM",
+        "status": "Processing",
+        "description": "Seller has processed your order."
+      },
+      {
+        "timestamp": "Fri, 17 Dec 2021 - 9:45AM",
+        "status": "Packed",
+        "description": "Your item has been picked up by courier partner."
+      },
+      {
+        "timestamp": "Sat, 18 Dec 2021 - 4:54PM",
+        "status": "Shipping",
+        "description": "RQK Logistics - MFDS1400457854. Your item has been shipped."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "customer_id": 2,
+    "status": "processing",
+    "products": [
+      {
+        "product_id": 2,
+        "quantity": 1
+      }
+    ],
+    "payment_details": {
+      "transaction_id": "ch_2345678901",
+      "payment_method": "PayPal",
+      "amount": 300,
+      "tax_amount": 25,
+      "shipping_amount": 15,
+      "status": "success"
+    },
+    "order_date": "2023-09-21",
+    "shipping_address": {
+      "street": "789 Pine St",
+      "city": "Villagetown",
+      "state": "NY",
+      "zip": "34567"
+    },
+    "billing_address": {
+      "street": "789 Pine St",
+      "city": "Villagetown",
+      "state": "NY",
+      "zip": "34567"
+    },
+    "order_status": [
+      {
+        "timestamp": "Wed, 15 Dec 2021 - 05:34PM",
+        "status": "Order Placed",
+        "description": "An order has been placed."
+      },
+      {
+        "timestamp": "Thu, 16 Dec 2021 - 5:48AM",
+        "status": "Processing",
+        "description": "Seller has processed your order."
+      },
+      {
+        "timestamp": "Fri, 17 Dec 2021 - 9:45AM",
+        "status": "Packed",
+        "description": "Your item has been picked up by courier partner."
+      },
+      {
+        "timestamp": "Sat, 18 Dec 2021 - 4:54PM",
+        "status": "Shipping",
+        "description": "RQK Logistics - MFDS1400457854. Your item has been shipped."
+      },
+      {
+        "timestamp": "Sun, 19 Dec 2021 - 3:30PM",
+        "status": "Out For Delivery",
+        "description": "Your item is out for delivery."
+      },
+      {
+        "timestamp": "Sun, 19 Dec 2021 - 7:15PM",
+        "status": "Delivered",
+        "description": "Your item has been delivered."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "customer_id": 3,
+    "status": "delivered",
+    "products": [
+      {
+        "product_id": 3,
+        "quantity": 2
+      }
+    ],
+    "payment_details": {
+      "transaction_id": "ch_3456789012",
+      "payment_method": "Credit Card",
+      "amount": 100,
+      "tax_amount": 10,
+      "shipping_amount": 5,
+      "status": "success"
+    },
+    "order_date": "2023-09-22",
+    "shipping_address": {
+      "street": "456 Oak St",
+      "city": "Anytown",
+      "state": "CA",
+      "zip": "12345"
+    },
+    "billing_address": {
+      "street": "456 Oak St",
+      "city": "Anytown",
+      "state": "CA",
+      "zip": "12345"
+    },
+    "order_status": [
+      {
+        "timestamp": "Wed, 15 Dec 2021 - 05:34PM",
+        "status": "Order Placed",
+        "description": "An order has been placed."
+      },
+      {
+        "timestamp": "Thu, 16 Dec 2021 - 5:48AM",
+        "status": "Processing",
+        "description": "Seller has processed your order."
+      },
+      {
+        "timestamp": "Fri, 17 Dec 2021 - 9:45AM",
+        "status": "Packed",
+        "description": "Your item has been picked up by courier partner."
+      },
+      {
+        "timestamp": "Sat, 18 Dec 2021 - 4:54PM",
+        "status": "Shipping",
+        "description": "RQK Logistics - MFDS1400457854. Your item has been shipped."
+      },
+      {
+        "timestamp": "Sun, 19 Dec 2021 - 3:30PM",
+        "status": "Out For Delivery",
+        "description": "Your item is out for delivery."
+      },
+      {
+        "timestamp": "Sun, 19 Dec 2021 - 7:15PM",
+        "status": "Delivered",
+        "description": "Your item has been delivered."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "customer_id": 4,
+    "status": "shipped",
+    "products": [
+      {
+        "product_id": 4,
+        "quantity": 3
+      }
+    ],
+    "payment_details": {
+      "transaction_id": "ch_4567890123",
+      "payment_method": "Credit Card",
+      "amount": 90,
+      "tax_amount": 7,
+      "shipping_amount": 3,
+      "status": "success"
+    },
+    "order_date": "2023-09-23",
+    "shipping_address": {
+      "street": "101 Maple St",
+      "city": "Smallville",
+      "state": "NY",
+      "zip": "45678"
+    },
+    "billing_address": {
+      "street": "101 Maple St",
+      "city": "Smallville",
+      "state": "NY",
+      "zip": "45678"
+    },
+    "order_status": [
+      {
+        "timestamp": "Wed, 15 Dec 2021 - 05:34PM",
+        "status": "Order Placed",
+        "description": "An order has been placed."
+      },
+      {
+        "timestamp": "Thu, 16 Dec 2021 - 5:48AM",
+        "status": "Processing",
+        "description": "Seller has processed your order."
+      },
+      {
+        "timestamp": "Fri, 17 Dec 2021 - 9:45AM",
+        "status": "Packed",
+        "description": "Your item has been picked up by courier partner."
+      },
+      {
+        "timestamp": "Sat, 18 Dec 2021 - 4:54PM",
+        "status": "Shipping",
+        "description": "RQK Logistics - MFDS1400457854. Your item has been shipped."
+      },
+      {
+        "timestamp": "Sun, 19 Dec 2021 - 3:30PM",
+        "status": "Out For Delivery",
+        "description": "Your item is out for delivery."
+      },
+      {
+        "timestamp": "Sun, 19 Dec 2021 - 7:15PM",
+        "status": "Delivered",
+        "description": "Your item has been delivered."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "customer_id": 5,
+    "status": "processing",
+    "products": [
+      {
+        "product_id": 5,
+        "quantity": 2
+      },
+      {
+        "product_id": 2,
+        "quantity": 2
+      }
+    ],
+    "payment_details": {
+      "transaction_id": "ch_5678901234",
+      "payment_method": "PayPal",
+      "amount": 100,
+      "tax_amount": 8,
+      "shipping_amount": 4,
+      "status": "success"
+    },
+    "order_date": "2023-09-24",
+    "shipping_address": {
+      "street": "202 Cedar St",
+      "city": "Smallville",
+      "state": "OH",
+      "zip": "56789"
+    },
+    "billing_address": {
+      "street": "202 Cedar St",
+      "city": "Smallville",
+      "state": "OH",
+      "zip": "56789"
+    },
+    "order_status": [
+      {
+        "timestamp": "Wed, 15 Dec 2021 - 05:34PM",
+        "status": "Order Placed",
+        "description": "An order has been placed."
+      },
+      {
+        "timestamp": "Thu, 16 Dec 2021 - 5:48AM",
+        "status": "Processing",
+        "description": "Seller has processed your order."
+      },
+      {
+        "timestamp": "Fri, 17 Dec 2021 - 9:45AM",
+        "status": "Packed",
+        "description": "Your item has been picked up by courier partner."
+      },
+      {
+        "timestamp": "Sat, 18 Dec 2021 - 4:54PM",
+        "status": "Shipping",
+        "description": "RQK Logistics - MFDS1400457854. Your item has been shipped."
+      },
+      {
+        "timestamp": "Sun, 19 Dec 2021 - 3:30PM",
+        "status": "Out For Delivery",
+        "description": "Your item is out for delivery."
+      },
+      {
+        "timestamp": "Sun, 19 Dec 2021 - 7:15PM",
+        "status": "Delivered",
+        "description": "Your item has been delivered."
+      }
+    ]
+  }
+]

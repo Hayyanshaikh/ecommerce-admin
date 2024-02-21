@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "title": "Coming soon",
+    "url": "/coming-soon",
+    "content": "Page under construction. Stay tuned!",
+    "meta":
+    {
+      "title": "Coming Soon - Website Name",
+      "description": "Explore the upcoming changes and updates on our website."
+    },
+    "status": "published",
+    "template": "default",
+    "publish": "2023-09-01",
+    "visibility": "visible",
+    "category": "technology",
+    "faq": [
+    {
+      "question": "What's coming soon on this page?",
+      "answer": "We have exciting updates and content planned for this page. Stay tuned for more information!"
+    }]
+  },
+
+  {
+    "id": "2",
+    "title": "Wishlist",
+    "url": "/wishlist",
+    "content": "Save your favorite products here and buy them later.",
+    "meta":
+    {
+      "title": "My Wishlist - Website Name",
+      "description": "Create a wishlist of your desired products and make shopping easier."
+    },
+    "status": "published",
+    "template": "wishlist",
+    "publish": "2023-09-05",
+    "visibility": "visible",
+    "category": "shopping",
+    "faq": [
+    {
+      "question": "How can I add items to my wishlist?",
+      "answer": "Simply click the 'Add to Wishlist' button on the product page."
+    },
+    {
+      "question": "Can I share my wishlist with others?",
+      "answer": "Yes, you can share your wishlist via email or social media."
+    }]
+  },
+  {
+    "id": "3",
+    "title": "Gift Cards",
+    "url": "/gift-cards",
+    "content": "The perfect gift for any occasion. Let your loved ones choose what they want.",
+    "meta":
+    {
+      "title": "Gift Cards - Website Name",
+      "description": "Surprise your friends and family with our customizable gift cards."
+    },
+    "status": "published",
+    "template": "gift-cards",
+    "publish": "2023-09-10",
+    "visibility": "visible",
+    "category": "gifts",
+    "faq": [
+    {
+      "question": "How can I purchase a gift card?",
+      "answer": "Visit our Gift Cards page and choose the desired amount and design."
+    },
+    {
+      "question": "Can gift cards be used for online purchases?",
+      "answer": "Yes, our gift cards can be used for both online and in-store purchases."
+    }]
+  }
+]

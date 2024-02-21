@@ -1,0 +1,375 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "createdAt": "2022-05-10",
+    "image": "https://placehold.co/300/f5f5f5/b0b0b0ff.webp",
+    "status": "Active",
+    "isVendor": false,
+    "addresses": [
+      {
+        "street": "123 Elm St",
+        "city": "Anytown",
+        "state": "CA",
+        "zip": "12345"
+      }
+    ],
+    "contact": {
+      "phone": "555-1234",
+      "email": "alice@example.com"
+    },
+    "dob": "1985-03-15",
+    "gender": "Female",
+    "financial_info": {
+      "bank_account": {
+        "account_number": "9876543210",
+        "branch": "Downtown Branch",
+        "ifsc_code": "ABCD1234"
+      },
+      "credit_card": {
+        "card_number": "**** **** **** 5678",
+        "expiry_date": "09/23",
+        "cvv": "***"
+      },
+      "income": "$80000"
+    },
+    "purchase_history": [
+      {
+        "order_id": 101,
+        "product_id": 1,
+        "purchase_date": "2022-06-20",
+        "transaction_amount": "$500"
+      }
+    ],
+    "preferences": {
+      "product_preferences": ["Electronics", "Home Decor"],
+      "communication_channels": ["Email", "Phone"],
+      "feedback_given": true
+    },
+    "interactions": {
+      "customer_service_calls": 2,
+      "complaints_raised": 1
+    },
+    "social_media": {
+      "profiles": {
+        "facebook": "alice.johnson",
+        "twitter": "alice85"
+      },
+      "interactions": {
+        "posts_liked": 20,
+        "comments_posted": 5
+      }
+    },
+    "demographic_info": {
+      "age_group": "30-40",
+      "marital_status": "Married",
+      "occupation": "Engineer"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Bob Smith",
+    "createdAt": "2022-04-18",
+    "image": "https://placehold.co/300/f5f5f5/b0b0b0ff.webp",
+    "status": "Active",
+    "isVendor": false,
+    "addresses": [
+      {
+        "street": "456 Oak St",
+        "city": "Smalltown",
+        "state": "NY",
+        "zip": "23456"
+      },
+      {
+        "street": "789 Pine St",
+        "city": "Metroville",
+        "state": "TX",
+        "zip": "34567"
+      }
+    ],
+    "contact": {
+      "phone": "555-5678",
+      "email": "bob@example.com"
+    },
+    "dob": "1978-12-10",
+    "gender": "Male",
+    "financial_info": {
+      "bank_account": {
+        "account_number": "8765432109",
+        "branch": "Uptown Branch",
+        "ifsc_code": "EFGH5678"
+      },
+      "credit_card": {
+        "card_number": "**** **** **** 6789",
+        "expiry_date": "07/24",
+        "cvv": "***"
+      },
+      "income": "$90000"
+    },
+    "purchase_history": [
+      {
+        "order_id": 103,
+        "product_id": 2,
+        "purchase_date": "2022-05-15",
+        "transaction_amount": "$700"
+      },
+      {
+        "order_id": 104,
+        "product_id": 4,
+        "purchase_date": "2022-07-10",
+        "transaction_amount": "$1200"
+      }
+    ],
+    "preferences": {
+      "product_preferences": ["Electronics", "Sports Equipment"],
+      "communication_channels": ["Email", "Phone"],
+      "feedback_given": true
+    },
+    "interactions": {
+      "customer_service_calls": 3,
+      "complaints_raised": 2
+    },
+    "social_media": {
+      "profiles": {
+        "facebook": "bob.smith",
+        "twitter": "bob78"
+      },
+      "interactions": {
+        "posts_liked": 15,
+        "comments_posted": 3
+      }
+    },
+    "demographic_info": {
+      "age_group": "40-50",
+      "marital_status": "Divorced",
+      "occupation": "Manager"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Eva Martinez",
+    "createdAt": "2022-03-05",
+    "image": "https://placehold.co/300/f5f5f5/b0b0b0ff.webp",
+    "status": "Active",
+    "isVendor": false,
+    "addresses": [
+      {
+        "street": "789 Pine St",
+        "city": "Metroville",
+        "state": "TX",
+        "zip": "34567"
+      },
+      {
+        "street": "202 Cedar St",
+        "city": "Smallville",
+        "state": "OH",
+        "zip": "56789"
+      }
+    ],
+    "contact": {
+      "phone": "555-6789",
+      "email": "eva@example.com"
+    },
+    "dob": "1980-07-03",
+    "gender": "Female",
+    "financial_info": {
+      "bank_account": {
+
+
+        "account_number": "7654321098",
+        "branch": "Downtown Branch",
+        "ifsc_code": "IJKL6789"
+      },
+      "credit_card": {
+        "card_number": "**** **** **** 7890",
+        "expiry_date": "12/22",
+        "cvv": "***"
+      },
+      "income": "$95000"
+    },
+    "purchase_history": [
+      {
+        "order_id": 105,
+        "product_id": 1,
+        "purchase_date": "2022-06-18",
+        "transaction_amount": "$600"
+      },
+      {
+        "order_id": 106,
+        "product_id": 3,
+        "purchase_date": "2022-07-05",
+        "transaction_amount": "$300"
+      }
+    ],
+    "preferences": {
+      "product_preferences": ["Home Appliances", "Clothing"],
+      "communication_channels": ["Email", "Phone"],
+      "feedback_given": true
+    },
+    "interactions": {
+      "customer_service_calls": 1,
+      "complaints_raised": 0
+    },
+    "social_media": {
+      "profiles": {
+        "facebook": "eva.martinez",
+        "twitter": "eva80"
+      },
+      "interactions": {
+        "posts_liked": 25,
+        "comments_posted": 7
+      }
+    },
+    "demographic_info": {
+      "age_group": "40-50",
+      "marital_status": "Married",
+      "occupation": "Doctor"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Michael Brown",
+    "createdAt": "2022-02-20",
+    "image": "https://placehold.co/300/f5f5f5/b0b0b0ff.webp",
+    "status": "Active",
+    "isVendor": true,
+    "addresses": [
+      {
+        "street": "101 Maple St",
+        "city": "Villagetown",
+        "state": "FL",
+        "zip": "45678"
+      }
+    ],
+    "contact": {
+      "phone": "555-7890",
+      "email": "michael@example.com"
+    },
+    "dob": "1985-04-28",
+    "gender": "Male",
+    "financial_info": {
+      "bank_account": {
+        "account_number": "6543210987",
+        "branch": "Uptown Branch",
+        "ifsc_code": "MNOP3456"
+      },
+      "credit_card": {
+        "card_number": "**** **** **** 8901",
+        "expiry_date": "11/23",
+        "cvv": "***"
+      },
+      "income": "$85000"
+    },
+    "purchase_history": [
+      {
+        "order_id": 107,
+        "product_id": 2,
+        "purchase_date": "2022-05-10",
+        "transaction_amount": "$700"
+      },
+      {
+        "order_id": 108,
+        "product_id": 5,
+        "purchase_date": "2022-07-18",
+        "transaction_amount": "$1000"
+      }
+    ],
+    "preferences": {
+      "product_preferences": ["Electronics", "Books"],
+      "communication_channels": ["Email", "Phone"],
+      "feedback_given": true
+    },
+    "interactions": {
+      "customer_service_calls": 2,
+      "complaints_raised": 1
+    },
+    "social_media": {
+      "profiles": {
+        "facebook": "michael.brown",
+        "twitter": "mike85"
+      },
+      "interactions": {
+        "posts_liked": 18,
+        "comments_posted": 4
+      }
+    },
+    "demographic_info": {
+      "age_group": "30-40",
+      "marital_status": "Single",
+      "occupation": "Writer"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Linda Davis",
+    "createdAt": "2022-01-10",
+    "image": "https://placehold.co/300/f5f5f5/b0b0b0ff.webp",
+    "status": "Active",
+    "isVendor": false,
+    "addresses": [
+      {
+        "street": "202 Cedar St",
+        "city": "Smallville",
+        "state": "OH",
+        "zip": "56789"
+      }
+    ],
+    "contact": {
+      "phone": "555-8901",
+      "email": "linda@example.com"
+    },
+    "dob": "1990-12-12",
+    "gender": "Female",
+    "financial_info": {
+      "bank_account": {
+        "account_number": "5432109876",
+        "branch": "Downtown Branch",
+        "ifsc_code": "UVWX1234"
+      },
+      "credit_card": {
+        "card_number": "**** **** **** 9012",
+        "expiry_date": "06/23",
+        "cvv": "***"
+      },
+      "income": "$75000"
+    },
+    "purchase_history": [
+      {
+        "order_id": 109,
+        "product_id": 1,
+        "purchase_date": "2022-06-05",
+        "transaction_amount": "$500"
+      },
+      {
+        "order_id": 110,
+        "product_id": 4,
+        "purchase_date": "2022-07-20",
+        "transaction_amount": "$1200"
+      }
+    ],
+    "preferences": {
+      "product_preferences": ["Clothing", "Beauty Products"],
+      "communication_channels": ["Email", "Phone"],
+      "feedback_given": true
+    },
+    "interactions": {
+      "customer_service_calls": 1,
+      "complaints_raised": 0
+    },
+    "social_media": {
+      "profiles": {
+        "facebook": "linda.davis",
+        "twitter": "linda90"
+      },
+      "interactions": {
+        "posts_liked": 12,
+        "comments_posted": 2
+      }
+    },
+    "demographic_info": {
+      "age_group": "30-40",
+      "marital_status": "Married",
+      "occupation": "Graphic Designer"
+    }
+  }
+]

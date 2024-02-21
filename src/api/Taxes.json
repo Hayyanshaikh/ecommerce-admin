@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "priority": 1,
+    "name": "vat",
+    "productId": 1,
+    "status": "active",
+    "percentage": "10%",
+    "rules": "some rules for vat",
+    "created at": "2023-09-30T12:00:00Z",
+    "isChecked": false
+  },
+  {
+    "id": 2,
+    "priority": 2,
+    "name": "none",
+    "productId": 2,
+    "status": "active",
+    "percentage": "0%",
+    "rules": "no rules for none",
+    "created at": "2023-09-30T12:30:00Z",
+    "isChecked": false
+  },
+  {
+    "id": 3,
+    "priority": 3,
+    "productId": 3,
+    "status": "active",
+    "percentage": "15%",
+    "name": "import tax",
+    "rules": "some rules for import tax",
+    "created at": "2023-09-30T13:00:00Z",
+    "isChecked": false
+  }
+]

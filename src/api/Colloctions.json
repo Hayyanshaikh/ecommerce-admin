@@ -1,0 +1,29 @@
+[
+    {
+      "id": 1,
+      "image": "new_arrival.jpg",
+      "name": "New Arrival",
+      "slug": "new-arrival",
+      "createdAt": "2023-10-01T09:00:00Z",
+      "status": "active",
+      "isChecked": false
+    },
+    {
+      "id": 2,
+      "image": "best_sellers.jpg",
+      "name": "Best Sellers",
+      "slug": "best-sellers",
+      "createdAt": "2023-10-01T09:30:00Z",
+      "status": "active",
+      "isChecked": false
+    },
+    {
+      "id": 3,
+      "image": "special_offer.jpg",
+      "name": "Special Offer",
+      "slug": "special-offer",
+      "createdAt": "2023-10-01T10:00:00Z",
+      "status": "inactive",
+      "isChecked": false
+    }
+]

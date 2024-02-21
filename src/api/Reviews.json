@@ -1,0 +1,46 @@
+[
+{
+  "review_id": 1,
+  "product_id": 3,
+  "customer_id": 1,
+  "rating": 5,
+  "review_text": "This product is amazing! It exceeded my expectations and I highly recommend it.",
+  "review_date": "2022-08-15",
+  "status": "Approved"
+},
+{
+  "review_id": 2,
+  "product_id": 10,
+  "customer_id": 2,
+  "rating": 4,
+  "review_text": "Good quality product. It serves its purpose well.",
+  "review_date": "2022-08-16",
+  "status": "Pending"
+},
+{
+  "review_id": 3,
+  "product_id": 4,
+  "customer_id": 3,
+  "rating": 3,
+  "review_text": "The product is okay, but I expected better quality for the price.",
+  "review_date": "2022-08-17",
+  "status": "Rejected"
+},
+{
+  "review_id": 4,
+  "product_id": 1,
+  "customer_id": 4,
+  "rating": 2,
+  "review_text": "Not satisfied with the product. It broke after just a few uses.",
+  "review_date": "2022-08-18",
+  "status": "Approved"
+},
+{
+  "review_id": 5,
+  "product_id": 8,
+  "customer_id": 5,
+  "rating": 1,
+  "review_text": "Terrible product! It didn't work at all. I want a refund.",
+  "review_date": "2022-08-19",
+  "status": "Pending"
+}]
